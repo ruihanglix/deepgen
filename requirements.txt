@@ -6,7 +6,6 @@ aiosignal==1.3.2
 annotated-types==0.7.0
 asttokens==3.0.0
 attrs==25.3.0
-av==14.3.0
 bitsandbytes==0.45.0
 certifi==2025.4.26
 charset-normalizer==3.4.1
@@ -27,7 +26,6 @@ et_xmlfile==2.0.0
 exceptiongroup==1.2.2
 executing==2.2.0
 filelock==3.13.1
-flash_attn==2.8.3
 fonttools==4.59.2
 frozenlist==1.6.0
 fsspec==2024.6.1
@@ -139,8 +137,6 @@ tqdm==4.67.1
 traitlets==5.14.3
 transformers==4.56.1
 transformers-stream-generator==0.0.5
-triton==2.3.0
-trl==0.23.1
 typing-inspection==0.4.0
 typing_extensions==4.13.2
 tzdata==2025.2
@@ -149,8 +145,9 @@ urllib3==2.4.0
 wandb==0.19.10
 wcwidth==0.2.13
 widgetsnbextension==4.0.14
-xtuner==0.2.0
+xtuner
 xxhash==3.5.0
 yapf==0.43.0
 yarl==1.20.0
 zipp==3.21.0
+flash_attn==2.8.3
