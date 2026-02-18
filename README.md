@@ -61,7 +61,7 @@ We further design a data-centric training strategy spanning three progressive st
 ```bash
 git clone https://github.com/deepgenteam/deepgen.git
 cd deepgen
-conda create -n deepgen python=3.10 -y
+conda create -n deepgen python=3.12 -y
 conda activate deepgen
 pip install -r requirements.txt
 pip install flash_attn==2.8.3 --no-build-isolation
