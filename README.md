@@ -78,17 +78,11 @@ Please See [DATA](DATA.md) for more details. We provide a detailed description o
 Please refer to [INFERENCE](INFERENCE.md) for the native pipeline usage.
 
 ### Train
-We provide the scripts for Interleaved Reasoning Tuning.
-```bash
-bash scripts/sft.sh
-```
 
-You can replace the variables in the script with your own before running.
 See [TRAIN](TRAIN.md) for more details. We provide a detailed description of the data download and usage procedures for both the pretraining stage and the SFT stage.
 
 ### Eval
-We provide the scripts for evaluating T2I and Editing benchmarks, support World Knowledge-Enhanced Textual Reasoning and Fine-grained Editing-like Visual Refinement.
-Please See [EVAL](EVAL.md) for more details.
+We provide the scripts for evaluating wide range of T2I and Editing benchmarks. Please See [EVAL](EVAL.md) for more details.
 
 ## 📊 Benchmarks
 
